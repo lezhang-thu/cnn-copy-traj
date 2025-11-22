@@ -154,5 +154,6 @@ if __name__ == '__main__':
         "MontezumaRevenge",
         MLPActorCritic,
         1e-4,
-        64,
+        #64,
+        1024,
     )
